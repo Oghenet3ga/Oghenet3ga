@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A frontend developer from Nigeria</p>
+<h3 align="left">A frontend developer from Nigeria</h3>
 
 ###
 
